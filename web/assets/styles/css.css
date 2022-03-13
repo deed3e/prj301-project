@@ -1,0 +1,22 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 3, 2022, 11:24:53 PM
+    Author     : pallgree
+*/
+.count_cart{
+    border: none;
+    font-size: 12px;
+}
+.header__nav__option{
+    position: relative;
+}
+.count_cart_div{
+    position: absolute;
+    top:20px;
+    right: 24px;
+    width: 5px;
+}
